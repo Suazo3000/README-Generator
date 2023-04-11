@@ -10,7 +10,7 @@
         - [License](#License)
 
     ## Description
-    Generates quick and professional README. The motive for this project/app is to create quick and easy to use readme generator application. The application     work by answer the questions when prompted and the answers will be popluated in one file.
+    Generates quick and professional README. The motive for this project/app is to create quick and easy to use readme generator application. The          application work by answer the questions when prompted and the answers will be popluated in one file. There is a video to show how to use the application    as well.
 
     ## Usage
     undefined
